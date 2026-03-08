@@ -18,8 +18,8 @@ export function Footer() {
               </div>
             </div>
             <p className="text-sm leading-relaxed text-primary-foreground/70 max-w-md">
-              Organização sem fins lucrativos dedicada ao desenvolvimento humano e social. 
-              Desde 2013 transformando vidas através da arte, esporte e cuidado social no 
+              Organização sem fins lucrativos dedicada ao desenvolvimento humano e social.
+              Desde 2013 transformando vidas através da arte, esporte e cuidado social no
               coração de Campo Grande/MS.
             </p>
             <p className="mt-4 text-xs text-primary-foreground/50">
@@ -36,13 +36,13 @@ export function Footer() {
               </li>
               <li>
                 <a
-                  href="https://wa.me/5567991122580"
+                  href="https://wa.me/556792026737"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-3 text-sm text-primary-foreground/70 transition-colors hover:text-secondary"
                 >
                   <Phone className="h-4 w-4 shrink-0 text-secondary" />
-                  <span>(67) 99112-2580</span>
+                  <span>(67) 99202-6737</span>
                 </a>
               </li>
             </ul>
