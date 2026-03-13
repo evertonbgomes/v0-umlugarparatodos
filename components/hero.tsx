@@ -13,7 +13,7 @@ export function Hero() {
           className="object-cover"
           priority
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-primary/95 via-primary/80 to-primary/40" />
+        <div className="absolute inset-0 bg-linear-to-r from-primary/95 via-primary/80 to-primary/40" />
       </div>
 
       <div className="relative z-10 mx-auto max-w-7xl px-6 py-24 md:py-32">
@@ -46,7 +46,7 @@ export function Hero() {
               asChild
               variant="outline"
               size="lg"
-              className="border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10 text-base px-8 py-6"
+              className="border-primary-foreground/30 text-secondary-foreground hover:bg-primary-foreground/10 text-base px-8 py-6"
             >
               <a href="#como-ajudar">
                 <Heart className="mr-2 h-5 w-5" />
