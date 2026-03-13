@@ -46,7 +46,7 @@ export function Hero() {
               asChild
               variant="outline"
               size="lg"
-              className="border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10 text-base px-8 py-6"
+              className="border-primary-foreground/30 text-secondary-foreground hover:bg-primary-foreground/10 text-base px-8 py-6"
             >
               <a href="#como-ajudar">
                 <Heart className="mr-2 h-5 w-5" />
