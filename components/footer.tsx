@@ -52,14 +52,14 @@ export function Footer() {
             <h4 className="font-serif text-base font-semibold mb-4">Redes Sociais</h4>
             <div className="flex gap-3">
               <a
-                href="https://www.instagram.com/cult.oficial?igsh=MTM0YWZrY3RxeTgxMA=="
+                href="https://www.instagram.com/cult.oficial?igsh=MTM0YWZrY3RxeTgxMA==" target="_blank
                 className="flex h-10 w-10 items-center justify-center rounded-full bg-primary-foreground/10 text-primary-foreground transition-colors hover:bg-secondary hover:text-secondary-foreground"
                 aria-label="Seguir no Instagram"
               >
                 <Instagram className="h-5 w-5" />
               </a>
               <a
-                href="https://www.instagram.com/cult.oficial?igsh=MTM0YWZrY3RxeTgxMA=="
+                href="https://www.instagram.com/cult.oficial?igsh=MTM0YWZrY3RxeTgxMA==" target="_blank"
                 className="flex h-10 w-10 items-center justify-center rounded-full bg-primary-foreground/10 text-primary-foreground transition-colors hover:bg-secondary hover:text-secondary-foreground"
                 aria-label="Seguir no Facebook"
               >
