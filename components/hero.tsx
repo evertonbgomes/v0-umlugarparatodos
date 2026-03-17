@@ -57,15 +57,15 @@ export function Hero() {
 
           <div className="mt-16 grid grid-cols-3 gap-8 border-t border-primary-foreground/20 pt-8">
             <div>
-              <p className="font-serif text-3xl font-bold text-secondary md:text-4xl">3</p>
+              <p className="font-serif text-3xl font-bold text-chart-2 md:text-4xl">3</p>
               <p className="mt-1 text-sm text-primary-foreground/70">Eixos de Atuação</p>
             </div>
             <div>
-              <p className="font-serif text-3xl font-bold text-secondary md:text-4xl">10+</p>
+              <p className="font-serif text-3xl font-bold text-chart-2 md:text-4xl">10+</p>
               <p className="mt-1 text-sm text-primary-foreground/70">Anos de Atividade</p>
             </div>
             <div>
-              <p className="font-serif text-3xl font-bold text-secondary md:text-4xl">500+</p>
+              <p className="font-serif text-3xl font-bold text-chart-2 md:text-4xl">500+</p>
               <p className="mt-1 text-sm text-primary-foreground/70">Pessoas Impactadas</p>
             </div>
           </div>
