@@ -1,6 +1,7 @@
 "use client"
 
 import { useState } from "react"
+import Image from "next/image"
 import { Menu, X, Heart } from "lucide-react"
 import { Button } from "@/components/ui/button"
 
@@ -20,7 +21,7 @@ export function Header() {
       <div className="mx-auto max-w-7xl flex items-center justify-between px-6 py-4">
         <a href="#inicio" className="flex items-center gap-2">
           <div className="flex h-10 w-10 items-center justify-center rounded-full bg-primary">
-            <Heart className="h-5 w-5 text-primary-foreground" fill="currentColor" />
+            <Image src="/icon-light-32x32.png" alt="Associação Um Lugar para Todos" width={64} height={64} />
           </div>
           <div className="flex flex-col leading-tight">
             <span className="font-serif text-lg font-bold text-foreground">Um Lugar</span>
