@@ -4,7 +4,7 @@ import { Drama, Smile, GraduationCap, Swords, Dumbbell, ShieldCheck, HandHeart }
 const projects = [
   {
     category: "Eixo Cultural: A Arte que Cura",
-    categoryColor: "bg-secondary text-secondary-foreground",
+    categoryColor: "bg-chart-1 text-primary-foreground",
     items: [
       {
         icon: Smile,
@@ -52,7 +52,7 @@ const projects = [
   },
   {
     category: "Eixo Social e Comunitário",
-    categoryColor: "bg-accent text-accent-foreground",
+    categoryColor: "bg-chart-4 text-accent-foreground",
     items: [
       {
         icon: ShieldCheck,
